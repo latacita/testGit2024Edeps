@@ -6,6 +6,8 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
-01	clone 
+01	git clone 
 02	Editar el fichero annadiendo
 	nombre y apellido
+04	git branch PrimeraRama
+	git checkout PrimeraRama
