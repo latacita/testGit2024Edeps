@@ -11,5 +11,19 @@
 	nombre y apellido
 04	git branch PrimeraRama
 	git checkout PrimeraRama
+06	git checkout master
+	git branch SegundaRama
+	git checkout SegundaRama
 11	git stash
 	git checkout PrimeraRama
+13	git checkout SegundaRama
+14	(he creado SegundaRama en main no dentro de PrimeraRama)
+	En mi caso seria recursiva porque 	
+	son dos ramas independientes donde PrimeraRama
+	ha tenido nuevas versiones desde su creacion.
+	En el caso esperado seria recursiva porque
+	se ha creado una nueva version de PrimeraRama
+	Posterior a la creacion de la SegundaRama.
+15	La fusion seria recursiva porque master
+	ha creado nuevas versiones desde la creacion
+	de PrimeraRama.
