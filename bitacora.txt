@@ -9,3 +9,12 @@
 01	clone 
 02	Editar el fichero annadiendo
 	nombre y apellido
+08	git push origin SegundaRama
+09	git checkout main
+17	git checkout PrimeraRama
+18	git merge --no-ff SegundaRama	Ha generado conflicto porque las lineas
+					no estaban ordenadas, las he modificado
+	git add .
+	git commit
+19	git checkout master
+20	git stash pop
