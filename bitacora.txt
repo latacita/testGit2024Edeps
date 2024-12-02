@@ -9,3 +9,6 @@
 01	clone 
 02	Editar el fichero annadiendo
 	nombre y apellido
+06	git checkout master
+	git branch SegundaRama
+	git checkout SegundaRama
