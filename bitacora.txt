@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Tanase, Eduard Gabriel               %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01	clone 
+02	Editar el fichero annadiendo
+	nombre y apellido
