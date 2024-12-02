@@ -11,3 +11,5 @@
 	nombre y apellido
 04	git branch PrimeraRama
 	git checkout PrimeraRama
+11	git stash
+	git checkout PrimeraRama
