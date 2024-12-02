@@ -22,3 +22,6 @@
 	git commit
 19	git checkout master
 20	git stash pop
+26	git tag PasosExtra
+27	git checkout master
+28	No se ha hehco ningun cherry-pick
