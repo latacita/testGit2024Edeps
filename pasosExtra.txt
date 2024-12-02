@@ -1,0 +1,13 @@
+Paso   Acción                       Notas
+====== ============================ ================================
+22	git push origin master		conflicto, el repositorio local 
+					no esta actualizado
+	git pull origin master		conflicto, no he sabido solucionar el
+					conflicto, el nombre aparecio dos veces
+					pero no vi ninguna indicacion del conflicto
+	git add .
+	git commit
+	git psuh origin master
+23	git checkout SegundaRama
+24	Se ha creado un archivo 
+	"pasosExtra.txt"
